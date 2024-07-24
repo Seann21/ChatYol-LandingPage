@@ -11,6 +11,7 @@ A landing page designed to give you an idea of the advanced capabilities of Chat
 - **Interactive Robots:** Features draggable robot images that return to their original position, adding an engaging interactive element.
 - **Animated Lights:** Dynamic light animations that follow your cursor in the features section, providing a visually appealing experience.
 - **Intuitive Interface:** Smooth image animations in the intuitive interface section, ensuring a user-friendly and enjoyable experience.
+- **Logo Ticker:** Displays a scrolling ticker of logos from trusted partners, adding credibility and a dynamic visual element to the page.
 
 ## Technologies Used
 - **Next.js:** A React framework for efficient and fast web application development.
