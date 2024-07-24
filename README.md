@@ -1,56 +1,25 @@
-# Portfolio Website V2
+<h1 align="center"> ChatYol AI Landing Page </h1>
 
-![Preview](public/images/desktopportofolio.png)
+![Preview](public/Chatyol.png)
 
-<p align='center'>My portfolio with multipage changes from the first revision (rework from <a href="https://github.com/tfkhdyt/web-portfolio-v3">tfkhdyt</a> portfolio v3)</p>
+A landing page designed to give you an idea of the advanced capabilities of ChatYol AI, a chatbot created to increase your productivity with fast and accurate solutions but still in its infancy.
 
-## Build With
+### Live Demo
+[Website Demo](https://chatyol-landingpage.vercel.app/)
 
-- [Next.js](https://nextjs.org/)
-- [TypeScript](https://www.npmjs.com/package/typescript)
-- [Mantine](https://mantine.dev/)
-- [React Hook Form](https://www.npmjs.com/package/react-hook-form)
-- [Zod](https://www.npmjs.com/package/zod)
-- [Jotai](https://www.npmjs.com/package/jotai)
-- [React Icons](https://www.npmjs.com/package/react-icons)
-- [Framer Motion](https://www.npmjs.com/package/framer-motion)
-- [NProgress](https://www.npmjs.com/package/nprogress)
-- [Next-SEO](https://www.npmjs.com/package/next-seo)
+## Features
+- **Interactive Robots:** Features draggable robot images that return to their original position, adding an engaging interactive element.
+- **Animated Lights:** Dynamic light animations that follow your cursor in the features section, providing a visually appealing experience.
+- **Intuitive Interface:** Smooth image animations in the intuitive interface section, ensuring a user-friendly and enjoyable experience.
 
-## Getting Started
+## Technologies Used
+- **Next.js:** A React framework for efficient and fast web application development.
+- **Tailwind CSS:** For styling and layout customization.
+- **TypeScript:** Adds type safety to JavaScript.
+- **Framer Motion:** For animations and transitions.
 
-### Prerequisites
+## Contribution
+You are welcome to contribute to this project by opening issues or creating pull requests. Any suggestions or improvements are highly appreciated!
 
-- [Node.js](https://nodejs.org/en/)
-- Any Node.js package manager (npm, yarn, **pnpm**)
-
-### Installation
-
-```bash
-git clone https://github.com/Seann21/Portofolio-V2.git
-cd Portofolio-V2
-pnpm install
-# npm install
-# yarn install
-```
-
-For message form support, create empty .env file and put your Message Form API URL.
-
-```env
-NEXT_PUBLIC_MESSAGE_FORM_API='Your API URL'
-```
-
-More info about [Message Form API](https://github.com/tfkhdyt/message-form-to-telegram-api)
-
-### Usage
-
-```bash
-# development
-pnpm dev
-
-# production
-pnpm build
-pnpm start
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## License
+This project is licensed under the [MIT License](LICENSE).
